@@ -30,7 +30,8 @@ Users has an able to:
 
 ### Links
 
-- [Solution URL]:(https://github.com/shikurassefa/testimonials-grid)
+ - [Solution URL]:(https://github.com/shikurassefa/testimonials-grid)
+ 
 - [Live Site URL]: (https://testimonials-grid-virid.vercel.app/)
 
 ## My process
