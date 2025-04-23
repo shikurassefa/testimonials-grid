@@ -26,13 +26,13 @@ Users has an able to:
 
 ### Screenshot
 
-![](./images/Screenshot.png)
+![](./images/testimonials-grid.png)
 
 ### Links
 
- - [Solution URL]:(https://github.com/shikurassefa/testimonials-grid)
- 
-- [Live Site URL]: (https://testimonials-grid-virid.vercel.app/)
+ - [Solution URL](https://github.com/shikurassefa/testimonials-grid)
+
+- [Live Site URL](https://testimonials-grid-virid.vercel.app/)
 
 ## My process
 
@@ -46,7 +46,7 @@ Users has an able to:
 
 
 ### What I learned
-to be honest i build confidence beyond some concepts like when i use grid 
+To be honest, this project boosted my confidence, especially with CSS Grid. I practiced using the following layout:
 ```CSS
 .testimonials
 {
@@ -54,15 +54,17 @@ display :grid;
 grid-template-columns:repeat(auto-fit,minmax(260px,auto))
 }
 ```   
-if childrens of testimonials span some columns or rows(which is in my code) we need `media query` to achieve responsiveness.
+When child elements of the grid span multiple columns or rows (like in my project), we need `media queries` to ensure responsiveness on different screen sizes.
 
 ### Continued development
-in addition to bulding projects like this that needs CSS i wana to focus on mastering React and build faster and scalable applications.
+In addition to building projects like this that focus on CSS, I want to master React to build faster, scalable applications in the future.
 
 ### Usefull Resources
-i used Chat Gpt like for suggestions so and grid reference.
+. ChatGPT – Helped with quick suggestions and Grid layout references.
+
+. CSS Tricks - A Complete Guide to Grid – [mdn]
 ## Author
 - Frontend Mentor - [@shikurassefa](https://www.frontendmentor.io/profile/shikurassefa) 
 
 ## Acknowledgments
-i wana to thank chat gpt as you know all,this era is an AI era it is true that developers who use AI will replace those who dont but it is critical how to use it because full depend on AI will decline our problem solving skills one thing problem is exist as long as life is continue so focus on how instead.
+Special thanks to ChatGPT. We are truly living in the era of AI. Developers who learn how to effectively leverage AI will replace those who don’t. However, it's important to use it wisely—full dependency on AI can weaken problem-solving skills. Life is full of challenges, and the key is to focus on how to solve them.
